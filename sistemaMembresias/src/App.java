@@ -2,7 +2,7 @@ import java.sql.*;
 import java.util.Scanner;
 import clases.*;
 import java.time.*;
-
+//Hola, saquen a dani del equipo
 public class App{
     public static void main(String[] args) {
         conexion conexion = new conexion("jdbc:mysql://localhost:3306/elitecard", "root", "");
